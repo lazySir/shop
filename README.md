@@ -1,5 +1,7 @@
 # shop
-
+```
+尚品会前端练习项目  已完成。
+```
 ## Project setup
 ```
 npm install
