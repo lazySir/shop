@@ -39,10 +39,14 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+# 项目截图
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![image](https://github.com/lazySir/supermall/assets/101635531/eb57a327-348c-4a66-838f-ef1e5fde257e)
+
+![image](https://github.com/lazySir/supermall/assets/101635531/4e2dbc89-81de-4191-9514-649565185413)
+
+![image](https://github.com/lazySir/supermall/assets/101635531/71d62c73-997d-41e1-9ea9-9a1da1be9692)
+
+![image](https://github.com/lazySir/supermall/assets/101635531/8d757bed-1bda-401c-b0f3-e2a0e2ce6016)
+
+![image](https://github.com/lazySir/supermall/assets/101635531/de5ee2a2-62c9-4346-b665-63310474bc14)
